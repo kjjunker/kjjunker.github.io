@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+Katelyn Junker is a undergraduate student at Cal Poly persuing a B.S. in biochemistry and a double minor in biology and nutrition. 
