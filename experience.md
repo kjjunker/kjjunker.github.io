@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: /publications/
+permalink: /experience/
 ---
 
 -Proton and Carbon NMR
