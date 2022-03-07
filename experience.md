@@ -16,3 +16,5 @@ permalink: /exp/
 -Streak Plate
 
 -Recrystalization
+
+Katelyn's research interests include environmental and marine conservation, and drug synthesis.
